@@ -1,0 +1,28 @@
+test_course_example (test_game_tree.GameTreeTests) ... ok
+test_equal_bounds_allow_pruning (test_game_tree.GameTreeTests) ... ok
+test_leaf_zero_and_negative_scores (test_game_tree.GameTreeTests) ... ok
+test_malformed_leaf (test_game_tree.GameTreeTests) ... ok
+test_order_affects_work_but_not_value (test_game_tree.GameTreeTests) ... ok
+test_random_trees_agree_with_full_search (test_game_tree.GameTreeTests) ... ok
+test_course_example (test_maze.MazeTests) ... ok
+test_invalid_endpoint (test_maze.MazeTests) ... ok
+test_same_start_end (test_maze.MazeTests) ... ok
+test_seeded_maps_against_bfs (test_maze.MazeTests) ... ok
+test_unreachable (test_maze.MazeTests) ... ok
+test_all_depths_against_exhaustive_sequences (test_treasure_game.TreasureTests) ... ok
+test_all_pairs_against_independent_dijkstra (test_treasure_game.TreasureTests) ... ok
+test_course_expectations_and_orders (test_treasure_game.TreasureTests) ... ok
+test_cutoff_and_terminal_states (test_treasure_game.TreasureTests) ... ok
+test_special_cells_cost_one (test_treasure_game.TreasureTests) ... ok
+test_state_update (test_treasure_game.TreasureTests) ... ok
+test_cheaper_route_can_be_longer (test_weighted_terrain.WeightedTests) ... ok
+test_course_example (test_weighted_terrain.WeightedTests) ... ok
+test_free_goal_and_numeric_goal (test_weighted_terrain.WeightedTests) ... ok
+test_invalid_input (test_weighted_terrain.WeightedTests) ... ok
+test_seeded_maps_against_reference (test_weighted_terrain.WeightedTests) ... ok
+test_unreachable_and_same_position (test_weighted_terrain.WeightedTests) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.113s
+
+OK

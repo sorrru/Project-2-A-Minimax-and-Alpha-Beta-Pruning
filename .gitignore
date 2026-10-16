@@ -1,0 +1,25 @@
+# Generated/submission documents stay local.
+*.pdf
+*.PDF
+*.html
+*.zip
+*.rar
+
+# Python, editor and OS files.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.env
+.env.*
+*.pem
+*.key
+
+# Rendering/temporary files; measured results/ remain tracked.
+tmp/
+output/
+*.tmp

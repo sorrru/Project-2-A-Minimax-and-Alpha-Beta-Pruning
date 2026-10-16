@@ -1,0 +1,2 @@
+# 四题算法、测试与 run_experiments.py 仅使用 Python 3.10+ 标准库。
+# 如需生成图表、HTML 和 PDF，请使用 requirements-report.txt。

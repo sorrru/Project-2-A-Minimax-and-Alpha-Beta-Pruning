@@ -1,0 +1,6 @@
+# 当前 project1 环境中已验证的图表/报告依赖（Python 3.10）。
+# PDF 生成另需本机 Google Chrome；可用 REPORT_CHROME 指定其路径。
+numpy==1.23.5
+matplotlib==3.7.0
+Markdown==3.10.3
+pypdf==6.19.0
