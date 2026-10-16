@@ -1,5 +1,7 @@
 # 实验二：搜索算法实验报告
 
+代码仓库：[https://github.com/sorrru/Project-2-A-Minimax-and-Alpha-Beta-Pruning](https://github.com/sorrru/Project-2-A-Minimax-and-Alpha-Beta-Pruning)
+
 姓名：赵敏伊　学号：10245501442
 
 ## 1 实验目标、问题与设置

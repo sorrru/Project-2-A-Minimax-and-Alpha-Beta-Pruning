@@ -24,7 +24,8 @@ body { font-family: 'Songti SC', 'STSong', serif; color: #172033;
        font-size: 10.5pt; line-height: 1.5; margin: 0; }
 h1, h2, strong { font-family: 'Hiragino Sans GB', 'STHeiti', sans-serif; }
 h1 { font-size: 17pt; text-align: center; margin: 0 0 4pt; }
-h1 + p { text-align: center; color: #475569; margin: 0 0 10pt; }
+h1 + p { text-align: center; color: #475569; font-size: 8.5pt; margin: 0 0 3pt; }
+h1 + p + p { text-align: center; color: #475569; margin: 0 0 10pt; }
 h2 { font-size: 12pt; margin: 12pt 0 5pt; padding-bottom: 3pt;
      border-bottom: .6pt solid #bac7d4; break-after: avoid; }
 p { text-align: justify; margin: 4pt 0; orphans: 3; widows: 3; break-inside: avoid; }
